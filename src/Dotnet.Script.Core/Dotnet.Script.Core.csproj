@@ -19,6 +19,7 @@
     <LangVersion>9.0</LangVersion>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>../dotnet-script.snk</AssemblyOriginatorKeyFile>
+	<Version></Version>
   </PropertyGroup>
   <ItemGroup>
     <EmbeddedResource Include="**/*.template" />
